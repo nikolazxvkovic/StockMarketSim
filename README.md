@@ -46,7 +46,7 @@ In order to start the code, run Main in the stock-application module, followed b
 
 ### Diagram
 
-![Beautiful Image](images/AOOP%20Assignment%203%20(1).jpg)
+![Beautiful Image](/stocks/images/AOOP%20Assignment%203%20(1).jpg)
 
 ## Modules
 Our 'Stonks' project consists of a number of modules such as:
@@ -127,31 +127,4 @@ In terms of stability, our code implementation is relatively working. Of course,
 Discuss the stability of your implementation. What works well? Are there any bugs? Is everything tested properly? Are there still features that have not been implemented? Also, if you had the time, what improvements would you make to your implementation? Are there things which you would have done completely differently? Try to aim for at least 250 words.
 -->
 
-## Extras
-
-<!--
-If you implemented any extras, you can list/mention them here.
--->
-
 ___
-
-
-<!-- Below you can find some sections that you would normally put in a README, but we decided to leave out (either because it is not very relevant, or because it is covered by one of the added sections) -->
-
-<!-- ## Usage -->
-<!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources. -->
-
-<!-- ## Roadmap -->
-<!-- Use this space to show your plans for future additions -->
-
-<!-- ## Contributing -->
-<!-- You can use this section to indicate how people can contribute to the project -->
-
-<!-- ## License -->
-<!-- You can add here whether the project is distributed under any license -->
-
-
-<!-- ## Contact -->
-<!-- If you want to provide some contact details, this is the place to do it -->
-
-<!-- ## Acknowledgements  -->
